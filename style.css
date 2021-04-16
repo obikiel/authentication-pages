@@ -1,0 +1,22 @@
+body{
+    display: grid;
+    background-color:cornsilk;
+
+}
+#registration-form{
+    margin:auto;
+
+}
+#registration-form {
+    border-radius:30px;
+}
+#login-form{
+    margin:auto;
+}
+.index{
+    margin:auto;
+}
+input[type="text"]{
+    border-radius:30px;
+    align-content: center;
+}
